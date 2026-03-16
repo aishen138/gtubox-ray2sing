@@ -1,4 +1,4 @@
-module github.com/hiddify/ray2sing
+module github.com/aishen138/gtubox-ray2sing
 
 go 1.25.6
 
